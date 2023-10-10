@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbsLabib, a Mech Graduate from Bangladesh, currently part of Air Conditioner R&I at Walton HIPLC.
 - 👀 I’m interested in Fluid Mechanics, CFD, thermal science and overall computational aspects of mechanical engineering
-- 🌱 I’m currently learning ML, Core CFD, Optimization Techniques/Algorithms.
+- 🌱 I’m currently learning ML, Core CFD and LBM, Optimization Techniques/Algorithms.
 - 💞️ I’m looking for gradaute opportunities to further bolster my knowledge on mechanical engineering.
 - 📫 How to reach me 
               email: sajih.binsuja5@gmail.com
